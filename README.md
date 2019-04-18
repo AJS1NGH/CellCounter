@@ -14,3 +14,4 @@ so we need to invert the image after applying a threshold for segmentation such 
 brighter than the background.
 
 The final output looks something like this:
+![alt text](https://github.com/AJS1NGH/CellCounter/blob/master/NumCells.png)
